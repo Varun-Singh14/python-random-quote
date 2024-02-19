@@ -13,7 +13,9 @@ The Python Quote Bot is a simple Python script that retrieves and displays rando
 
 1. **Clone the Repository**: Clone the repository to your local machine using the following command:
 
+```bash
 git clone https://github.com/Varun-Singh14/python-random-quote.git
+```
 
 2. **Navigate to the Project Directory**: Use the `cd` command to navigate into the project directory:
 
